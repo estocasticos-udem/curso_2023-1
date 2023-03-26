@@ -3,7 +3,7 @@
 ## Distribuciones de probabilidad
 
 1. Distribuciones de probabilidad discretas ([link](variables_aleatorias_discretas/README.md))
-2. Distribuciones de probabilidad continuas ([link](variables_aleatorias_continuas/README.md)))
+2. Distribuciones de probabilidad continuas ([link](variables_aleatorias_continuas/README.md))
 
 
 ## Referencias
