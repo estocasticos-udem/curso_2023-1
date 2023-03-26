@@ -16,3 +16,4 @@
 6. https://dlsun.github.io/stats112/index.html
 7. https://dlsun.github.io/stat312/
 8. https://dlsun.github.io/Stat305-S20/
+9. https://ellibrodepython.com/
