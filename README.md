@@ -17,3 +17,4 @@
 7. https://dlsun.github.io/stat312/
 8. https://dlsun.github.io/Stat305-S20/
 9. https://ellibrodepython.com/
+10. https://web.stanford.edu/class/archive/cs/cs109/cs109.1176//
